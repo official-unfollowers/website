@@ -1,0 +1,5 @@
+{
+  "status" : "moved",
+  "version_code" : 576,
+  "package_name" : "com.reporting.instagram"
+}
